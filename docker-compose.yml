@@ -1,0 +1,12 @@
+version: "3"
+services:
+  haskell:
+    build:
+      context: .
+    volumes: 
+      - 'C:\Users\brezi\OneDrive\škola\vysoká\semestr 4\neprocko\fb-messages-analyzer\:/var/www'
+
+
+
+
+
